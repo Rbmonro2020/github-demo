@@ -1,0 +1,8 @@
+Test Git Quick Start Demo >> start.txt
+ls
+cd github-demo
+git status
+cat start.text
+$ ls
+exit
+echo Test Git Quick Start Demo
